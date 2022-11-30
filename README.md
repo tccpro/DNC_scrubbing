@@ -9,6 +9,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/react-file-upload?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/react-file-upload?style=plastic)
 
+
 ## Table of contents
 
 * [React File Upload](#react-file-upload)
